@@ -146,9 +146,9 @@ header{
 }
 
 .cards{
-    row-gap: 20px;
+    row-gap: 45px;
     display: grid;
-    grid-template: repeat(3,230px)/ repeat(3,2fr);
+    grid-template: repeat(3,230px)/ repeat(2,2fr);
     font-size: 15px;
     padding: 10px 0px 0px;
 }
